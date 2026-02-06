@@ -1,28 +1,16 @@
-Data Foundations Program - Data Visualization: Proyecto "Campañas y Respuestas"
-📑 Descripción del Proyecto
-Este repositorio contiene el entregable final del módulo de Data Visualization del Coding Bootcamp de la ESPOL. El objetivo principal fue transformar un dataset crudo de marketing en un ecosistema visual estratégico para analizar el comportamiento del consumidor y la efectividad de campañas.
+# Data Foundations Program - Data Visualization: Proyecto "Campañas y Respuestas"
 
-El proyecto se enfocó en responder preguntas críticas de negocio mediante el uso de Power BI y DAX, permitiendo identificar segmentos de clientes rentables y patrones de consumo.
+Desarrollo de una solución analítica integral enfocada en el perfilamiento del cliente y la optimización de campañas de marketing, como entregable final del **Coding Bootcamp de la ESPOL**.
 
-🚀 Logros Técnicos
-Limpieza y Curación de Datos (ETL): Diagnóstico y tratamiento de inconsistencias en el dataset original para asegurar la integridad de los resultados.
+### 🛠️ Responsabilidades y Logros Técnicos
+* **Análisis de Negocio:** Definición de KPIs estratégicos como Tasa de Conversión por segmento de edad, Gasto Promedio por nivel educativo y Ticket Promedio según constitución familiar.
+* **Procesamiento de Datos (ETL):** Diagnóstico del estado inicial del dataset y aplicación de mejoras estructurales para corregir inconsistencias y asegurar la calidad de la información.
+* **Visualización de Datos:** Diseño de un Dashboard interactivo en Power BI con segmentación dinámica (filtros de educación, estado civil y antigüedad) para facilitar la exploración de datos.
+* **Extracción de Insights:**
+    * Identificación de mayor receptividad a campañas en el segmento <25 años.
+    * Correlación positiva entre antigüedad del cliente (>7 años) y fidelización del gasto.
+    * Segmentación de hábitos de consumo basados en el nivel de ingresos y situación familiar.
 
-Modelado de Datos: Estructuración de un modelo eficiente para el análisis de perfiles de clientes.
-
-Análisis DAX: Creación de medidas personalizadas para el cálculo de KPIs como Tasa de Conversión, Gasto Promedio y Ticket Promedio.
-
-Diseño de Dashboard: Implementación de visualizaciones interactivas con segmentación dinámica (Educación, Estado Civil, Antigüedad).
-
-📊 Insights Clave
-Segmentación por Edad: Los clientes menores de 25 años presentan la mayor tasa de receptividad a las campañas.
-
-Fidelización: Existe una correlación directa entre la antigüedad del cliente (+7 años) y un mayor valor acumulado de gasto.
-
-Relación Socioeconómica: El nivel educativo y el ingreso influyen significativamente en el volumen de compra, permitiendo priorizar segmentos de alto valor.
-
-🛠️ Herramientas Utilizadas
-Power BI Desktop (Visualización y Modelado).
-
-DAX (Métricas y cálculos).
-
-Dataset: Campañas de Marketing y Respuestas de Clientes.
+### 📊 Herramientas y Tecnologías
+* **Power BI** (DAX, Modelado de datos).
+* **Análisis de Negocio** / Toma de decisiones basada en datos.
